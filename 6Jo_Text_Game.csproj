@@ -14,7 +14,7 @@
     <Compile Remove="SceneManager.cs" />
     <Compile Remove="Stage.cs" />
     <Compile Remove="Store.cs" />
-    <Compile Remove="Warrior.cs" />
+    <Compile Remove="Warrior.cs" />//ss
   </ItemGroup>
 
 </Project>
